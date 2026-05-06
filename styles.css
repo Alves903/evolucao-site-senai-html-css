@@ -1,0 +1,150 @@
+body {
+    background-color: #000;
+    text-align: center;
+}
+
+nav {
+    background: #06296b;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+h1 {
+    color: #60d4ea;
+    font-size: 60px;
+    margin: 30px;
+}
+
+h2 {
+    color: #60d4ea;
+    font-size: 35px;
+    margin: 40px;
+}
+
+p {
+    background-color: #1c1c1e;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    width: 60%;
+    margin: 15px auto;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+img.escola {
+    display: inline-block;
+    width: 40%;
+    height: 300px;
+    margin: 20px;
+    border-radius: 12px;
+}
+
+ul.diferenciais, ol {
+    background-color: #1c1c1e;
+    color: white;
+    font-size: 20px;
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+table {
+    background-color: #1c1c1e;
+    color: white;
+    font-size: 18px;
+    width: 60%;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+
+table th {
+    background-color: #1a3c7d;
+    padding: 10px;
+}
+
+table td {
+    padding: 10px;
+    text-align: center;
+}
+
+form {
+    padding: 30px;
+    background:#1a3c7d;
+    width: 50%;
+    margin: 40px auto;
+    border-radius: 12px;
+}
+
+form label {
+    display: block;
+    margin: 10px;
+    color: #60d4ea;
+    font-size: 18px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border-radius: 6px;
+}
+
+form button {
+    margin-top: 20px;
+    background-color: #60d4ea;
+    color: #06296b;
+    padding: 10px;
+    width: 120px;
+    border-radius: 8px;
+}
+
+p.contato {
+    background: #06296b;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 12px;
+    width: 60%;
+    margin: 40px auto;
+}
+
+p.contato a {
+    color: #60d4ea;
+    text-decoration: none;
+}
+
+p.link {
+    background-color: #1c1c1e;
+    color: white;
+    padding: 15px;
+    width: 60%;
+    margin: 15px auto;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+p.link a {
+    color: #60d4ea;
+    text-decoration: none;
+}
+
+p.sobre {
+    background-color: #1c1c1e;
+    color: white;
+    padding: 25px;
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 12px;
+    font-size: 23px;
+    text-align: justify;
+}
+
+
